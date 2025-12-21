@@ -43,7 +43,7 @@ function HomeComponent() {
                                 <th scope="col">#</th>
                                 <th scope="col">First Name</th>
                                 <th scope="col">Last Name</th>
-                                <th scope="col"> EMail</th>
+                                <th scope="col">user EMail</th>
                                 <th scope="col">Actions</th>
                             </tr>
                         </thead>
